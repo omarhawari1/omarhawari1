@@ -38,9 +38,9 @@ Self-taught developer with extensive experience in both hardware and software. F
 
  # Currently Working On
 
-   - ### [Whispering Nightfall]()
+   - ### Whispering Nightfall
 
- <a href="">
+ <a>
   <img src="https://github.com/omarhawari1/omarhawari1/blob/main/whispering%20nightfall%20concept.webp" width="50%">
  </a>
 
