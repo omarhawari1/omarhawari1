@@ -4,7 +4,7 @@ Self-taught developer with extensive experience in both hardware and software. F
 
 ## Links
 
-- 👓 [Linkedin]([https://www.linkedin.com/in/masterz/](https://www.linkedin.com/in/omar-hawari-akuna/))
+- 👓 [Linkedin](https://www.linkedin.com/in/omar-hawari-akuna/)
 - 🎫 [Resume](https://docs.google.com/document/d/19_92Gm4z_LhE1GvXo8DJK6osjPzEzuXVnxhr9cl2ILg/edit?usp=sharing)
 - 💬 Contact: omar.hawari.2006@gmail.com
 
