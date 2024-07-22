@@ -36,6 +36,14 @@ Self-taught developer with extensive experience in both hardware and software. F
   <img src="https://github.com/omarhawari1/omarhawari1/blob/main/last%20night.gif" width="50%">
  </a>
 
+ # Currently Working On
+
+   - ### [Whispering Nightfall]()
+
+ <a href="">
+  <img src="https://github.com/omarhawari1/omarhawari1/blob/main/last%20night.gif" width="50%">
+ </a>
+
 
 
 <!-- More ideas
