@@ -23,16 +23,13 @@ Self-taught developer with extensive experience in both hardware and software. F
  <a href="https://akuna.itch.io/clandestine-the-hidden-truth-demo">
   <img src="https://github.com/omarhawari1/omarhawari1/blob/main/screenshot%20bigger%20title.png" width="50%">
  </a>
+ 
+ - ### [Found](https://akuna.itch.io/found-demo)
 
+ <a href="https://akuna.itch.io/found-demo">
+  <img src="https://github.com/omarhawari1/omarhawari1/blob/main/screenshot%20bigger%20title.png" width="50%">
+ </a>
 
-# Extra
-
-Currently I am creating a tool as my own venture which will be available soon
-
-<div class="row" align="center">
-  <img src="https://user-images.githubusercontent.com/64444068/234759819-d1551567-22d3-4f2a-b3f5-feaddf5bd24b.gif" width="49%">
-  <img src="https://user-images.githubusercontent.com/64444068/232954650-b59f80fa-65b7-49c6-9352-e1ead28bd6ab.png" width="49%">
-</div>
 
 
 <!-- More ideas
