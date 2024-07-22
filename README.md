@@ -13,7 +13,7 @@ Self-taught developer with extensive experience in both hardware and software. F
 - ### [Commanding Nations](https://store.steampowered.com/app/1527070/Commanding_Nations/)
 
 <a href="[https://lussa.io/](https://store.steampowered.com/app/1527070/Commanding_Nations/)">
-  <img src="https://github.com/MasterZ0/MasterZ0/assets/64444068/5149d116-a3cd-4fc0-a358-cdc1e03e714b" width="50%"/>
+  <img src="https://github.com/omarhawari1/omarhawari1/blob/main/commanding%20nations.jpg" width="50%"/>
 </a>
 
 # Personal Projects (Open Repositories)
