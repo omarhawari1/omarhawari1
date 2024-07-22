@@ -1,4 +1,4 @@
-# Summary
+# About Me
 
 Self-taught developer with extensive experience in both hardware and software. Fast learner, motivated problem solver, and certified personal trainer with excellent people skills.
 
@@ -8,7 +8,7 @@ Self-taught developer with extensive experience in both hardware and software. F
 - 🎫 [Resume](https://docs.google.com/document/d/19_92Gm4z_LhE1GvXo8DJK6osjPzEzuXVnxhr9cl2ILg/edit?usp=sharing)
 - 💬 Contact: omar.hawari.2006@gmail.com
 
-# Projects directly involved
+# Experience
 
 - ### [Commanding Nations](https://store.steampowered.com/app/1527070/Commanding_Nations/)
 
