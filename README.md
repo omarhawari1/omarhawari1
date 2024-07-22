@@ -43,6 +43,7 @@ Self-taught developer with extensive experience in both hardware and software. F
  <a href="">
   <img src="https://github.com/omarhawari1/omarhawari1/blob/main/whispering%20nightfall%20concept.webp" width="50%">
  </a>
+ "Whispering Nightfall" is a cooperative survival horror game that immerses players in a gripping narrative set on an uncharted planet. Stranded after their return vessel malfunctions, players must work together to survive the hostile environment while repairing their ship and evading a deadly alien threat sensitive to sound.
 
 
 
