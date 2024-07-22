@@ -21,7 +21,7 @@ Self-taught developer with extensive experience in both hardware and software. F
 - ### [Clandestine: The Hidden Truth](https://akuna.itch.io/clandestine-the-hidden-truth-demo)
 
  <a href="https://akuna.itch.io/clandestine-the-hidden-truth-demo">
-  <img src="https://user-images.githubusercontent.com/64444068/198894962-3a09c6af-783c-46b2-ad9b-d004a463ccef.png" width="50%">
+  <img src="https://github.com/omarhawari1/omarhawari1/blob/main/wallpaper.png" width="50%">
  </a>
 
 
