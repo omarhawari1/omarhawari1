@@ -18,7 +18,8 @@ Self-taught developer with extensive experience in both hardware and software. F
 
 # Personal Projects
 
-- ### [Clandestine: The Hidden Truth](https://akuna.itch.io/clandestine-the-hidden-truth-demo)
+- ### [Clandestine: The Hidden Truth - Demo](https://akuna.itch.io/clandestine-the-hidden-truth-demo)
+- ### [Clandestine: The Hidden Truth](https://store.steampowered.com/app/2813120/Clandestine_The_Hidden_Truth/)
 
  <a href="https://akuna.itch.io/clandestine-the-hidden-truth-demo">
   <img src="https://github.com/omarhawari1/omarhawari1/blob/main/screenshot%20bigger%20title.png" width="50%">
